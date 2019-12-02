@@ -39,3 +39,8 @@ text-docoration: none;
 font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat:300&display=swap');
 display: inline-block; 
 }
+footer{
+text-align: center;
+align-content: center;
+font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat:100&display=swap');
+}
