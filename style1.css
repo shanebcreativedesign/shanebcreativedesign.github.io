@@ -17,6 +17,8 @@ align-content: center;
 align-content: center; 
 }
 h1{
+align-content: center;
+/* Using the same font with bold font weight to create contrast and for platform support */
 font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat:600&display=swap');
 text-align: center;
 text decoration: none;
@@ -25,6 +27,15 @@ text decoration: none;
 align-content: center;
 text-decoration: none;
 }
+ul{
+margin: 10px, 10px, 2px;
+padding: 10px, 10px, 2px;
+text-align: center;
+text-decoration: none;
+display: inline;
+}
 li{
+text-docoration: none;
+font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat:300&display=swap');
 display: inline-block; 
 }
