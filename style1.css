@@ -1,1 +1,22 @@
-
+/* '*' selects all the html */
+*{
+margin: 0, auto;
+padding: 0, auto;
+font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+}
+body{
+margin: 10px, 10px, 2px;
+padding: 10px, 10px, 2px;
+font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+}
+#section1{
+align-content: center;
+}
+#section1line{
+align-content: center; 
+}
+h1{
+font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat:600&display=swap');
+text-align: center;
+text decoration: none;
+}
