@@ -5,6 +5,7 @@ padding: 0, auto;
 font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 }
 body{
+align-content: center;
 margin: 10px, 10px, 2px;
 padding: 10px, 10px, 2px;
 font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
@@ -19,4 +20,11 @@ h1{
 font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat:600&display=swap');
 text-align: center;
 text decoration: none;
+}
+#navbar{
+align-content: center;
+text-decoration: none;
+}
+li{
+display: inline-block; 
 }
