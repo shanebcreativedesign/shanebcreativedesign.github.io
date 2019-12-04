@@ -44,3 +44,15 @@ text-align: center;
 align-content: center;
 font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat:100&display=swap');
 }
+#blog-header{
+margin:18px;
+padding: 18px;
+padding-left:20px;
+padding-right:20px;
+align-content: center;
+}
+#blog-h1{
+font-family: 'Montserrat', sans-serif, @import url('https://fonts.googleapis.com/css?family=Montserrat:900&display=swap');
+text-align: center;
+align-content: center;
+}
